@@ -5,7 +5,7 @@ int main (){
 
 for (int i = 0; i<=1000; i++)
 {
-    cout<<"i love aayu chomu and aditiya lode❤️"<<endl;
+    cout<<"i love aayu and aditiya❤️"<<endl;
 
     
     }
